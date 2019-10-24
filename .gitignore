@@ -1,0 +1,10 @@
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# build
+*build*/
+
+# test elf
+client
